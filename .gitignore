@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+*.zip
+# dataset images are not uploaded to GitHub (re-create with preprocess.py)
+data/
+# generated logs
+outputs/train_log.txt
